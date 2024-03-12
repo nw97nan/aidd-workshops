@@ -25,3 +25,27 @@ This workshop will introduce you to the basics of DeepChem and will allow you to
 4. [Molecular fingerprints](Workshop_1/Molecular_Fingerprints.ipynb)
 
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepchem/deepchem/blob/master/examples/tutorials/Molecular_Fingerprints.ipynb)
+
+### Workshops 2 and 3: Ligand and structure based predictive modelling (13/03/2024 and 20/03/2024)
+
+This workshop covers lectures 3-5 of the AI in Drug Discovery lecture course.
+
+1. [Creating a High Fidelity Dataset from Experimental Data](Workshops_2_3/Creating_a_high_fidelity_model_from_experimental_data.ipynb)
+
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GouldGroup/aidd-workshops/blob/main/Workshops_2_3/Creating_a_high_fidelity_model_from_experimental_data.ipynb)
+
+2. [Creating Models with TensorFlow and PyTorch](Workshops_2_3/Creating_Models_with_TensorFlow_and_PyTorch.ipynb)
+
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepchem/deepchem/blob/master/examples/tutorials/Creating_Models_with_TensorFlow_and_PyTorch.ipynb)
+
+3. [Going Deeper On Molecular Featurizations](Workshops_2_3/Going_Deeper_on_Molecular_Featurizations.ipynb)
+
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GouldGroup/aidd-workshops/blob/main/Workshops_2_3/Going_Deeper_on_Molecular_Featurizations.ipynb)
+
+4. [Working With Splitters](Workshops_2_3/Working_With_Splitters.ipynb)
+
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepchem/deepchem/blob/master/examples/tutorials/Working_With_Splitters.ipynb)
+
+5. [Introduction to Graph Convolutions](Workshops_2_3/Introduction_to_Graph_Convolutions.ipynb)
+
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepchem/deepchem/blob/master/examples/tutorials/Introduction_to_Graph_Convolutions.ipynb)
