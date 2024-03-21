@@ -49,3 +49,16 @@ This workshop covers lectures 3-5 of the AI in Drug Discovery lecture course.
 5. [Introduction to Graph Convolutions](Workshops_2_3/Introduction_to_Graph_Convolutions.ipynb)
 
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepchem/deepchem/blob/master/examples/tutorials/Introduction_to_Graph_Convolutions.ipynb)
+
+### Workshop 4: Modeling protein-ligand interactions (22/03/2024)
+
+Please note these two notebooks need to be run using Colab.
+
+1. [Modeling Protein-Ligand Interactions](Workshop_4/Modeling_Protein_Ligand_Interactions.ipynb)
+
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GouldGroup/aidd-workshops/blob/main/Workshop_4/Modeling_Protein_Ligand_Interactions.ipynb)
+
+2. [Modeling Protein-Ligand Interactions with Atomic Convolutions](Workshop_4/Modeling_Protein_Ligand_Interactions_With_Atomic_Convolutions.ipynb)
+
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GouldGroup/aidd-workshops/blob/main/Workshop_4/Modeling_Protein_Ligand_Interactions_With_Atomic_Convolutions.ipynb)
+    
