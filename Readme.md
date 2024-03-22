@@ -56,9 +56,9 @@ Please note these two notebooks need to be run using Colab.
 
 1. [Modeling Protein-Ligand Interactions](Workshop_4/Modeling_Protein_Ligand_Interactions.ipynb)
 
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GouldGroup/aidd-workshops/blob/main/Workshop_4/Modeling_Protein_Ligand_Interactions.ipynb)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nw97nan/aidd-workshops/blob/main/Workshop_4/Modeling_Protein_Ligand_Interactions.ipynb)
 
 2. [Modeling Protein-Ligand Interactions with Atomic Convolutions](Workshop_4/Modeling_Protein_Ligand_Interactions_With_Atomic_Convolutions.ipynb)
 
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GouldGroup/aidd-workshops/blob/main/Workshop_4/Modeling_Protein_Ligand_Interactions_With_Atomic_Convolutions.ipynb)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nw97nan/aidd-workshops/blob/main/Workshop_4/Modeling_Protein_Ligand_Interactions_With_Atomic_Convolutions.ipynb)
     
